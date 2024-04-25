@@ -34,14 +34,14 @@ const Article = () => {
       </div>
 
       <div className="pb-6">
-        Maka bersama {" "}
+        Maka bersama
         <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
           rel="noreferrer"
           className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
         >
-          KUMON
+          {" "}KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
         </a>{" "}
         yaitu platform digital yang dibuat untuk mendekatkan anak-anak, orang
@@ -221,6 +221,13 @@ const Article = () => {
           yang produktif, kreatif dan unggul.
         </div>
       </div>
+        <div className="mt-8">
+          <span className="italic">
+          Keyword {" "}
+
+          </span>
+          = #kumonconnect, #kumondigital, #lesbahasainggrisanak, #lesmatematikaonline, #bimbelmatematikaanak, #kursusbahasainggrisonline, #revolusipendidikanbersamakumon, #KUMON
+        </div>
     </div>
   );
 };
