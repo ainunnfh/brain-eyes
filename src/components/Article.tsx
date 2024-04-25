@@ -4,7 +4,7 @@ const Article = () => {
   return (
     <div className="flex flex-col px-4 lg:px-0 mt-10 text-justify">
       <p className="pb-6">
-        Saat ini dunia memiliki pesatnya perkembangan teknologi yang tak
+        Saat ini dunia mengalami pesatnya perkembangan teknologi yang tak
         terbayangkan. Anak-anak hingga orang dewasa tampaknya tak bisa lepas
         dari akses teknologi yang semakin memanjakan penggunanya. Hampir
         mustahil saat ini melihat orang berjalan tanpa membawa ponsel pintar
