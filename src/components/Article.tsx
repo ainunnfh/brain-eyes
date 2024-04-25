@@ -34,7 +34,7 @@ const Article = () => {
       </div>
 
       <div className="pb-6">
-        Maka bersama{" "}
+        Maka bersama {" "}
         <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
