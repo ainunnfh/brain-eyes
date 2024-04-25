@@ -86,15 +86,15 @@ const Article = () => {
           <span className="text-[#F7B531]"> CONNECT</span>
         </a>{" "}
         , yaitu :
-        <div>
+        <li>
           Matematika, Program keunggulan ini memiliki sistem level untuk
-          mengembangkan kemampuan untuk para siswa dalam menghitung di tingkat
+          mengembangkan kemampuan para siswa dalam menghitung di tingkat
           tinggi.
-        </div>
-        <div>
+        </li>
+        <li>
           Bahasa Inggris, Program unggulan yang memiliki tujuan dalam
           meningkatkan dan memperkaya siswa dalam memahami tata bahasa baru.
-        </div>
+        </li>
       </div>
       <div className="pb-6">
         Dua program keunggulan milik{" "}
