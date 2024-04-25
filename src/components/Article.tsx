@@ -34,7 +34,7 @@ const Article = () => {
       </div>
 
       <div className="pb-6">
-        Maka bersama {" "}
+        Maka bersama{" "}
         <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
@@ -48,7 +48,7 @@ const Article = () => {
         tua dan pembimbing belajar. Mempermudah anak-anak untuk mengakses
         pendidikannya dimana saja dan kapanpun mereka mau. Pengembangan metode
         belajar yang mempermudah dari kumon ini tentu sangat efektif dan menjadi
-        revolusi bagi pendidikan anak.  {""}
+        revolusi bagi pendidikan anak. {""}
         <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
@@ -58,11 +58,9 @@ const Article = () => {
           KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
         </a>{" "}
-        
-        juga mendukung pendidikan
-        dengan mengatasi kurangnya tenaga pendidik dan mempermudah mereka dengan
-        memantaunya dari balik layar yang menghubungkan anak dengan orang tua
-        mereka.
+        juga mendukung pendidikan dengan mengatasi kurangnya tenaga pendidik dan
+        mempermudah mereka dengan memantaunya dari balik layar yang
+        menghubungkan anak dengan orang tua mereka.
       </div>
       <div className="pb-6">
         Sejak dulu, KUMON memiliki sistem yang unggul dan terstruktur untuk
@@ -77,7 +75,8 @@ const Article = () => {
         kemampuan mereka menjadi individu yang produktif.
       </div>
       <div className="pb-6">
-        Seperti program unggulan yang dimiliki <a
+        Seperti program unggulan yang dimiliki{" "}
+        <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
           rel="noreferrer"
@@ -85,7 +84,8 @@ const Article = () => {
         >
           KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
-        </a>{" "}, yaitu :
+        </a>{" "}
+        , yaitu :
         <div>
           Matematika, Program keunggulan ini memiliki sistem level untuk
           mengembangkan kemampuan untuk para siswa dalam menghitung di tingkat
@@ -97,7 +97,8 @@ const Article = () => {
         </div>
       </div>
       <div className="pb-6">
-        Dua program keunggulan milik <a
+        Dua program keunggulan milik{" "}
+        <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
           rel="noreferrer"
@@ -105,8 +106,9 @@ const Article = () => {
         >
           KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
-        </a>{" "} di atas merupakan salah satu
-        bentuk <a
+        </a>{" "}
+        di atas merupakan salah satu bentuk{" "}
+        <a
           href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
           target="_blank"
           rel="noreferrer"
@@ -114,8 +116,9 @@ const Article = () => {
         >
           KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
-        </a>{" "} merevolusi masa depan pendidikan dengan kemampuan
-        berbahasa asing dan juga mengasah logika dengan matematika.
+        </a>{" "}
+        merevolusi masa depan pendidikan dengan kemampuan berbahasa asing dan
+        juga mengasah logika dengan matematika.
       </div>
 
       <div className=" div-4">
@@ -164,13 +167,58 @@ const Article = () => {
 
         <div>
           Mudahnya mendapatkan informasi dan hiburan menjadi alasan orang-orang
-          tak bisa lepas dari gadget. Maka pemanfaatan teknologi bersama KUMON
-          CONNECT dapat mempermudah belajar, pengembangan pribadi lewat program
-          keunggulan kursus bahasa inggris online dan les matematika online.
-          Revolusi masa depan lebih tertata bersama KUMON Digital. Karena
-          pendidikan yang tepat, dapat membuka potensi yang tersembunyi dan
-          dapat membantu mengembangkan kemampuan mereka menjadi individu yang
-          produktif, kreatif dan unggul.
+          tak bisa lepas dari <span className="italic">gadget</span>. Maka
+          pemanfaatan teknologi bersama{" "}
+          <a
+            href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
+            target="_blank"
+            rel="noreferrer"
+            className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
+          >
+            KUMON
+            <span className="text-[#F7B531]"> CONNECT</span>
+          </a>{" "}
+          dapat mempermudah belajar, pengembangan pribadi lewat program
+          keunggulan{" "}
+          <a
+            href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
+            target="_blank"
+            rel="noreferrer"
+            className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
+          >
+            kursus bahasa inggris online
+          </a>{" "}
+          dan{" "}
+          <a
+            href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
+            target="_blank"
+            rel="noreferrer"
+            className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
+          >
+            les matematika online.
+          </a>{" "}
+          Revolusi masa depan lebih tertata bersama{" "}
+          <a
+            href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
+            target="_blank"
+            rel="noreferrer"
+            className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
+          >
+            KUMON Digital
+          </a>{" "}
+          di atas merupakan salah satu bentuk{" "}
+          <a
+            href="https://id.kumonglobal.com/kumon-connect/?utm_source=website&utm_medium=article&utm_id=Kumon+Blog+Competition"
+            target="_blank"
+            rel="noreferrer"
+            className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
+          >
+            KUMON
+            <span className="text-[#F7B531]"> CONNECT</span>
+          </a>
+          . Karena pendidikan yang tepat, dapat membuka potensi yang tersembunyi
+          dan dapat membantu mengembangkan kemampuan mereka menjadi individu
+          yang produktif, kreatif dan unggul.
         </div>
       </div>
     </div>
