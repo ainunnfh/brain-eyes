@@ -41,7 +41,8 @@ const Article = () => {
           rel="noreferrer"
           className="hover: cursor-pointer text-[#7ECDF4] hover:underline"
         >
-          {" "}KUMON
+          {" "}
+          KUMON
           <span className="text-[#F7B531]"> CONNECT</span>
         </a>{" "}
         yaitu platform digital yang dibuat untuk mendekatkan anak-anak, orang
@@ -93,8 +94,7 @@ const Article = () => {
         , yaitu :
         <li>
           Matematika, Program keunggulan ini memiliki sistem level untuk
-          mengembangkan kemampuan para siswa dalam menghitung di tingkat
-          tinggi.
+          mengembangkan kemampuan para siswa dalam menghitung di tingkat tinggi.
         </li>
         <li>
           Bahasa Inggris, Program unggulan yang memiliki tujuan dalam
@@ -230,13 +230,16 @@ const Article = () => {
           yang produktif, kreatif dan unggul.
         </div>
       </div>
-        <div className="mt-8">
-          <span className="italic">
-          Keyword {" "}
-
-          </span>
-          = #kumonconnect, #kumondigital, #lesbahasainggrisanak, #lesmatematikaonline, #bimbelmatematikaanak, #kursusbahasainggrisonline, #revolusipendidikanbersamakumon, #KUMON
-        </div>
+      <div className="mt-8 flex flex-col italic">
+        <p>#kumon</p>
+        <p>#kumonconnect</p>
+        <p>#kumondigital</p>
+        <p>#lesbahasainggrisanak</p>
+        <p>#lesmatematikaonline</p>
+        <p>#bimbelmatematikaanak</p>
+        <p>#kursusbahasainggrisonline</p>
+        <p>#revolusipendidikanbersamakumon</p>
+      </div>
     </div>
   );
 };
