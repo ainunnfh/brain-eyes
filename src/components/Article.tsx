@@ -65,7 +65,7 @@ const Article = () => {
       </div>
 
       <div className="mb-3">
-        <img src="pelajaran.png" className="" alt="" />
+        <img src="pendidikan.png" className="" alt="" />
       </div>
 
       <div className="pb-6">
@@ -127,7 +127,7 @@ const Article = () => {
       </div>
 
       <div className="mb-3">
-        <img src="pendidikan.png" className="" alt="" />
+        <img src="pelajaran.png" className="" alt="" />
       </div>
 
       <div className=" div-4">
