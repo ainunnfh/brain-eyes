@@ -62,6 +62,11 @@ const Article = () => {
         mempermudah mereka dengan memantaunya dari balik layar yang
         menghubungkan anak dengan orang tua mereka.
       </div>
+
+      <div className="mb-3">
+        <img src="pelajaran.png" className="" alt="" />
+      </div>
+
       <div className="pb-6">
         Sejak dulu, KUMON memiliki sistem yang unggul dan terstruktur untuk
         memfasilitasi pembelajaran yang produktif. Sistem yang dirancang agar
@@ -119,6 +124,10 @@ const Article = () => {
         </a>{" "}
         merevolusi masa depan pendidikan dengan kemampuan berbahasa asing dan
         juga mengasah logika dengan matematika.
+      </div>
+
+      <div className="mb-3">
+        <img src="pendidikan.png" className="" alt="" />
       </div>
 
       <div className=" div-4">
